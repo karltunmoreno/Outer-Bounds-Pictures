@@ -1,6 +1,6 @@
-![Ss](https://www.outerboundspictures.com/)
+![Ss](https://media.licdn.com/dms/image/D5622AQEuIbWikSDMfw/feedshare-shrink_2048_1536/0/1719198416670?e=1721865600&v=beta&t=M5fHf10q7PqBLd9NBuk94DyVgCGqNze_pFT4448E8x4)
 
-https://www.outerboundspictures.com/
+SITE LINK: https://www.outerboundspictures.com/
 
 
 # Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
